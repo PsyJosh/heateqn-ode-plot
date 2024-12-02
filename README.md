@@ -1,4 +1,4 @@
-# Heat Equation ODE Solver
+# Heat Equation ODE Solver with Finite Difference Equations
 The goal is to solve a representation of heat along a rod represented by the equation
 
 $\frac{d^2u}{dx^2} + \frac{2}{q+x} \frac{du}{dx} - \frac{2p}{q+x}u = 0; u(0) = 0, u(1) = 1$.
